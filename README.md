@@ -13,4 +13,4 @@ sudo ./arpspoof.sh
 
 Enjoy the script
 
-Tested on Ubuntu 18.04
+Tested on Parrot Os
